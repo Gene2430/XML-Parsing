@@ -1,0 +1,65 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+
+<fastfood_chain>
+    <fastfood>
+        <branch>McDonald&apos;s</branch>
+        <founder>Ray Kroc</founder> 
+        <tagline>Good time, Great taste</tagline>
+        <origin>San Bernardino, California</origin>
+        <best_seller>
+            <food1>French fries</food1>
+            <food2>Double Cheese Burger</food2>
+            <food3>Chicken Nuggets</food3>
+        </best_seller>
+    </fastfood> 
+
+    <fastfood>
+        <branch>KFC</branch>
+        <founder>Colonel harland Sanders</founder>
+        <tagline>Finger Lickin&apos; Good</tagline>
+        <origin>Louisville, Kentucky, U.S.</origin>
+        <best_seller>
+            <food1>Fried Chicken</food1>
+            <food2>Mac and Cheese</food2>
+            <food3>Chicken Sandwich</food3>
+        </best_seller>
+    </fastfood>    
+
+    <fastfood>
+        <branch>Jollibe</branch>
+        <founder>Tony Tan Caktiong </founder>
+        <tagline>Langhap Sarap!</tagline>
+        <origin>Philippines</origin>
+        <best_seller>
+            <food1>Chicken Joy</food1>
+            <food2>Jolly Spaghetti</food2>
+            <food3>Peach Mango Pie</food3>
+        </best_seller>
+    </fastfood> 
+
+    <fastfood>
+        <branch>Chowking</branch>
+        <founder>Robert Kuan</founder>
+        <tagline>Tikman ang bagong sarap</tagline>
+        <origin>Philippines</origin>
+        <best_seller>
+            <food1>Pork Chao Pan</food1>
+            <food2>Lauriat</food2>
+            <food3>Wanton Mami</food3>
+        </best_seller>
+    </fastfood> 
+
+    <fastfood>
+        <branch>Mang Inasal</branch>
+        <founder>Edgar Sias</founder>
+        <tagline>The more the many-er</tagline>
+        <origin>Philippines</origin>
+        <best_seller>
+            <food1>Chicken Inasal</food1>
+            <food2>Pork Barbeque</food2>
+            <food3>Halo-Halo</food3>
+        </best_seller>
+    </fastfood> 
+
+</fastfood_chain>
